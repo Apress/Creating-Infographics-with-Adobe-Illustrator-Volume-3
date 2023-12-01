@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Target" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 270 270" style="enable-background:new 0 0 270 270;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#00AEEF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:#F7941D;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:#00A651;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st5{fill:#EF4136;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st6{fill:#00AEEF;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#F7941D;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:#00A651;stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:#EF4136;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:#231F20;}
+	.st11{font-family:'MyriadPro-Bold';}
+	.st12{font-size:22px;}
+	.st13{display:inline;fill:#231F20;}
+	.st14{font-size:12px;}
+	.st15{display:inline;fill:#ED1C24;stroke:#231F20;stroke-miterlimit:10;}
+	.st16{display:inline;fill:#00A651;stroke:#231F20;stroke-miterlimit:10;}
+	.st17{display:inline;fill:#F7941D;stroke:#231F20;stroke-miterlimit:10;}
+	.st18{display:inline;fill:#00AEEF;stroke:#231F20;stroke-miterlimit:10;}
+</style>
+<g class="st0">
+	<g class="st1">
+		<g>
+			<g>
+				<path class="st2" d="M134.62,139.66L83.7,209.74c-38.7-28.12-47.28-82.29-19.16-121c16.87-23.22,41.38-35.71,70.08-35.71V139.66
+					z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st3" d="M134.62,139.66l82.39,26.77c-14.78,45.5-63.65,70.4-109.15,55.62c-9.1-2.96-16.41-6.68-24.15-12.3
+					L134.62,139.66z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st4" d="M134.62,139.66l50.92-70.08c30.96,22.5,43.3,60.45,31.47,96.85L134.62,139.66z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M134.62,139.66V53.04c19.14,0,35.44,5.3,50.92,16.54L134.62,139.66z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="PartyA" onmouseover="document.getElementById(&quot;PartyALink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;PartyALink&quot;).style.display=&quot;none&quot;;">
+	<g>
+		<path class="st6" d="M134.62,139.66L83.7,209.74c-38.7-28.12-47.28-82.29-19.16-121c16.87-23.22,41.38-35.71,70.08-35.71V139.66z"
+			/>
+	</g>
+</g>
+<g id="PartyB" onmouseover="document.getElementById(&quot;PartyBLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;PartyBLink&quot;).style.display=&quot;none&quot;;">
+	<g>
+		<path class="st7" d="M134.62,139.66l82.39,26.77c-14.78,45.5-63.65,70.4-109.15,55.62c-9.1-2.96-16.41-6.68-24.15-12.3
+			L134.62,139.66z"/>
+	</g>
+</g>
+<g id="PartyC" onmouseover="document.getElementById(&quot;PartyCLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;PartyCLink&quot;).style.display=&quot;none&quot;;">
+	<g>
+		<path class="st8" d="M134.62,139.66l50.92-70.08c30.96,22.5,43.3,60.45,31.47,96.85L134.62,139.66z"/>
+	</g>
+</g>
+<g id="PartyD" onmouseover="document.getElementById(&quot;PartyDLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;PartyDLink&quot;).style.display=&quot;none&quot;;">
+	<g>
+		<path class="st9" d="M134.62,139.66V53.04c19.14,0,35.44,5.3,50.92,16.54L134.62,139.66z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 19.7339 32.5713)" class="st10 st11 st12">Votes</text>
+<g id="PartyDLink" class="st0">
+	<text transform="matrix(1 0 0 1 159.3804 27.5)" class="st13 st11 st14">Party D </text>
+	<text transform="matrix(1 0 0 1 167.8704 41.9)" class="st13 st11 st14">10%</text>
+	<polygon class="st15" points="148.66,45.91 151.05,40.29 186.48,55.36 184.09,60.97 160.74,66.69 	"/>
+</g>
+<g id="PartyCLink" class="st0">
+	<text transform="matrix(1 0 0 1 225.896 91.5)" class="st13 st11 st14">Party C </text>
+	<text transform="matrix(1 0 0 1 233.866 105.9)" class="st13 st11 st14">20%</text>
+	<polygon class="st16" points="211.01,85.92 216.62,83.53 231.73,118.94 226.12,121.33 205.32,109.28 	"/>
+</g>
+<g id="PartyBLink" class="st0">
+	<text transform="matrix(1 0 0 1 160.396 245.5)" class="st13 st11 st14">Party B</text>
+	<text transform="matrix(1 0 0 1 166.866 259.9)" class="st13 st11 st14">30%</text>
+	<polygon class="st17" points="182.33,218.12 184.25,223.91 147.72,236.06 145.79,230.27 159.52,210.53 	"/>
+</g>
+<g id="PartyALink" class="st0">
+	<text transform="matrix(1 0 0 1 7.7041 86)" class="st13 st11 st14">Party A </text>
+	<text transform="matrix(1 0 0 1 15.8741 100.4)" class="st13 st11 st14">40%</text>
+	<polygon class="st18" points="39.39,128.35 33.78,125.96 48.86,90.53 54.47,92.92 60.18,116.27 	"/>
+</g>
+</svg>

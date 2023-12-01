@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Target" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 270 270" style="enable-background:new 0 0 270 270;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{font-family:'MyriadPro-Bold';}
+	.st2{font-size:12px;}
+	.st3{fill:#D1D3D4;stroke:#231F20;stroke-miterlimit:10;}
+	.st4{fill:#D1D3D4;stroke:#231F20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#A7AAAC;stroke:#231F20;stroke-width:1;stroke-miterlimit:10.0012;}
+	.st6{fill:#414142;stroke:#231F20;stroke-miterlimit:10;}
+	.st7{display:none;}
+	.st8{display:inline;}
+	.st9{fill:#1D75BC;stroke:#231F20;stroke-miterlimit:10;}
+	.st10{fill:#1D75BC;stroke:#231F20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{display:inline;fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.st12{display:inline;fill:none;}
+	.st13{display:inline;fill:#231F20;}
+	.st14{font-size:25px;}
+	.st15{display:inline;fill:#2A3990;stroke:#231F20;stroke-miterlimit:10;}
+	.st16{display:inline;fill:#28AAE2;stroke:#231F20;stroke-miterlimit:10;}
+	.st17{display:inline;fill:#1D75BC;stroke:#231F20;stroke-miterlimit:10;}
+</style>
+<g id="Title">
+	<text transform="matrix(1 0 0 1 17 24.7778)" class="st0 st1 st2">Hover over part of the Rake </text>
+	<text transform="matrix(1 0 0 1 17 39.1778)" class="st0 st1 st2">to discover what that part is called.</text>
+</g>
+<g id="Head" onmouseover="document.getElementById(&quot;HeadLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;HeadLink&quot;).style.display=&quot;none&quot;;">
+	<path class="st3" d="M15.5,192.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S15.5,192.5,15.5,192.5z"/>
+	<path class="st3" d="M23.5,195.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S23.5,195.5,23.5,195.5z"/>
+	<path class="st3" d="M31.5,198.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S31.5,198.5,31.5,198.5z"
+		/>
+	<path class="st3" d="M39.5,200.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S39.5,200.5,39.5,200.5z"
+		/>
+	<path class="st3" d="M47.5,203.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S47.5,203.5,47.5,203.5z"
+		/>
+	<path class="st3" d="M55.5,206.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S55.5,206.5,55.5,206.5z"
+		/>
+	<path class="st3" d="M63.5,208.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S63.5,208.5,63.5,208.5z"/>
+	<path class="st3" d="M71.5,211.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S71.5,211.5,71.5,211.5z"/>
+	<path class="st3" d="M79.5,214.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S79.5,214.5,79.5,214.5z"/>
+	<path class="st3" d="M87.5,217.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S87.5,217.5,87.5,217.5z"/>
+	<polygon class="st3" points="92.5,217.5 14.5,191.5 21.5,188.5 96.5,213.5 	"/>
+	<polygon class="st3" points="91.5,222.04 14.5,195.47 14.12,191.68 91.5,217.5 	"/>
+	<polygon class="st4" points="96.44,217.78 92.44,221.78 92.5,217.5 96.5,213.5 	"/>
+</g>
+<rect id="Handle" x="66.5" y="105.51" onmouseover="document.getElementById(&quot;HandleLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;HandleLink&quot;).style.display=&quot;none&quot;;" transform="matrix(0.7643 -0.6449 0.6449 0.7643 -33.0236 128.6769)" class="st5" width="186" height="8"/>
+<path id="Shaft" onmouseover="document.getElementById(&quot;ShaftLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;ShaftLink&quot;).style.display=&quot;none&quot;;" class="st3" d="
+	M54.5,201.5c0,0-3,1-4,0s-1-2-1-2L86,166.47c0,0,3.5,0.03,4.5,1.03s0.65,5.07,0.65,5.07L54.5,201.5z"/>
+<path id="Hilt" onmouseover="document.getElementById(&quot;HiltLink&quot;).style.display=&quot;block&quot;;" onmouseout="document.getElementById(&quot;HiltLink&quot;).style.display=&quot;none&quot;;" class="st6" d="
+	M246.57,39.8c-9.86-0.18-12.86,1.67-20.57,7.2c-8.05,5.78-27,23-27,23s3-1,5,1s2,5,2,5s6.28-5.51,12.11-10.21
+	c0.27,0.05,0.54,0.08,0.85,0.08c2.71,0,4.14-1.98,4.31-4.08c1.33-0.99,2.7-2.12,4.11-3.28c0.23,0.03,0.45,0.07,0.7,0.07
+	c2.72,0,4.14-1.98,4.31-4.08c1.13-0.84,2.29-1.64,3.47-2.36c0.46,0.16,0.97,0.27,1.55,0.27c2.16,0,3.52-1.26,4.07-2.83
+	c1.41-0.4,2.86-0.62,4.34-0.59C251.69,49.1,252.48,39.91,246.57,39.8z"/>
+<g id="HeadLink" class="st7">
+	<g class="st8">
+		<path class="st9" d="M15.5,192.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S15.5,192.5,15.5,192.5z"/>
+		<path class="st9" d="M23.5,195.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S23.5,195.5,23.5,195.5z"/>
+		<path class="st9" d="M31.5,198.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S31.5,198.5,31.5,198.5z
+			"/>
+		<path class="st9" d="M39.5,200.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S39.5,200.5,39.5,200.5z
+			"/>
+		<path class="st9" d="M47.5,203.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S47.5,203.5,47.5,203.5z
+			"/>
+		<path class="st9" d="M55.5,206.5h3.61c0,0-1,5.61-0.81,7.31c0.19,1.69,1.19,6.69,1.19,6.69s-2-4.39-3-6.69S55.5,206.5,55.5,206.5z
+			"/>
+		<path class="st9" d="M63.5,208.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S63.5,208.5,63.5,208.5z"/>
+		<path class="st9" d="M71.5,211.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S71.5,211.5,71.5,211.5z"/>
+		<path class="st9" d="M79.5,214.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S79.5,214.5,79.5,214.5z"/>
+		<path class="st9" d="M87.5,217.5h3.61c0,0-1,5.61-0.81,7.31s1.19,6.69,1.19,6.69s-2-4.39-3-6.69S87.5,217.5,87.5,217.5z"/>
+		<polygon class="st9" points="92.5,217.5 14.5,191.5 21.5,188.5 96.5,213.5 		"/>
+		<polygon class="st9" points="91.5,222.04 14.5,195.47 14.12,191.68 91.5,217.5 		"/>
+		<polygon class="st10" points="96.44,217.78 92.44,221.78 92.5,217.5 96.5,213.5 		"/>
+	</g>
+	<polygon class="st11" points="36.5,235.5 29.5,227.5 23.5,235.5 21.5,235.5 21.5,266.5 89.5,266.5 89.5,235.5 	"/>
+	<rect x="26.67" y="241.67" class="st12" width="61.33" height="18.67"/>
+	<text transform="matrix(1 0 0 1 26.6665 259.4165)" class="st13 st1 st14">Head</text>
+</g>
+<g id="HiltLink" class="st7">
+	<path class="st15" d="M246.57,39.8c-9.86-0.18-12.86,1.67-20.57,7.2c-8.05,5.78-27,23-27,23s0.58-0.19,1.39-0.24
+		c1.05-0.06,2.48,0.12,3.61,1.24c1.51,1.51,1.88,3.59,1.97,4.52C206,75.82,206,76,206,76s6.28-5.51,12.11-10.21
+		c0.27,0.05,0.54,0.08,0.85,0.08c2.71,0,4.14-1.98,4.31-4.08c1.33-0.99,2.7-2.12,4.11-3.28c0.23,0.03,0.45,0.07,0.7,0.07
+		c2.72,0,4.14-1.98,4.31-4.08c1.13-0.84,2.29-1.64,3.47-2.36c0.46,0.16,0.97,0.27,1.55,0.27c2.16,0,3.52-1.26,4.07-2.83
+		c1.41-0.4,2.86-0.62,4.34-0.59C251.69,49.1,252.48,39.91,246.57,39.8z"/>
+	<polygon class="st11" points="227.5,78.5 220.5,70.5 214.5,78.5 212.5,78.5 212.5,119.5 266.5,119.5 266.5,78.5 	"/>
+	<rect x="219.67" y="90.67" class="st12" width="46.33" height="18.67"/>
+	<text transform="matrix(1 0 0 1 219.6665 108.4165)" class="st13 st1 st14">Hilt</text>
+</g>
+<g id="HandleLink" class="st7">
+	<polygon class="st11" points="149.5,146.5 142.5,138.5 136.5,146.5 134.5,146.5 134.5,183.5 218.5,183.5 218.5,146.5 	"/>
+	<rect x="139.67" y="154.67" class="st12" width="78.33" height="18.67"/>
+	<text transform="matrix(1 0 0 1 137.6649 172.4165)" class="st13 st1 st14">Handle</text>
+	<path class="st16" d="M90.5,167.5c0.88,0.88,0.72,4.11,0.66,4.9l114.81-96.88c-0.09-0.93-0.46-3.01-1.97-4.52
+		c-1.12-1.12-2.56-1.3-3.61-1.24L85.84,166.42l0.09,0.11l0.06-0.06C86,166.47,89.5,166.5,90.5,167.5z"/>
+</g>
+<g id="ShaftLink" class="st7">
+	<path class="st17" d="M90.5,167.5c-1-1-4.5-1.03-4.5-1.03l-0.06,0.06L49.5,199.5c0,0,0,1,1,2s4,0,4,0l36.65-28.93
+		c0,0,0.01-0.06,0.01-0.18C91.22,171.61,91.38,168.38,90.5,167.5z"/>
+	<polygon class="st11" points="64.5,164.5 71.5,172.5 77.5,164.5 79.5,164.5 79.5,125.5 13.5,125.5 13.5,164.5 	"/>
+	<rect x="17.67" y="134.67" class="st12" width="58.33" height="18.67"/>
+	<text transform="matrix(1 0 0 1 16.6657 152.4165)" class="st13 st1 st14">Shaft</text>
+</g>
+</svg>
